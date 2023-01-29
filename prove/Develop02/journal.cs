@@ -1,3 +1,4 @@
+//Jacob Strong
 public class Journal{
     public void addEntry(){ 
         DateTime now = DateTime.Now;
